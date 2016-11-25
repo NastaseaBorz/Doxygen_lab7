@@ -1,0 +1,30 @@
+\begin{theindex}
+
+  \item {Car}
+    \subitem {car\+::\+Car}, \hyperpage{7}
+  \item {car}, \hyperpage{5}
+    \subitem {Offroad}, \hyperpage{5}
+    \subitem {Simple}, \hyperpage{5}
+    \subitem {Truck}, \hyperpage{5}
+    \subitem {Type}, \hyperpage{5}
+  \item {car\+::\+Car}, \hyperpage{7}
+    \subitem {Car}, \hyperpage{7}
+
+  \indexspace
+
+  \item {Offroad}
+    \subitem {car}, \hyperpage{5}
+
+  \indexspace
+
+  \item {Simple}
+    \subitem {car}, \hyperpage{5}
+
+  \indexspace
+
+  \item {Truck}
+    \subitem {car}, \hyperpage{5}
+  \item {Type}
+    \subitem {car}, \hyperpage{5}
+
+\end{theindex}
